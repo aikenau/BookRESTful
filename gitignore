@@ -1,0 +1,7 @@
+
+# Ignore JAR files in WEB-INF/lib/
+WEB-INF/lib/*.jar
+# Ignore Java files in WEB-INF/classes/
+WEB-INF/classes/controllers/*.class
+WEB-INF/classes/handlers/*.class
+WEB-INF/classes/models/*.class
